@@ -29,7 +29,7 @@ This project uses Support Vector Machine (SVM) models to classify breast tumors 
 - Removed irrelevant columns (ID, unnamed).
 - Plotted class distribution:
 
-![Class Distribution](![class distribution](https://github.com/user-attachments/assets/5eb4743a-187c-47a3-879c-02b01e345412))
+![Class Distribution]((https://github.com/user-attachments/assets/5eb4743a-187c-47a3-879c-02b01e345412))
 
 ##  Model Training and Kernels
 
@@ -74,9 +74,9 @@ Used two features: radius_mean, texture_mean
 
 | Kernel Type | Visualization |
 |-------------|---------------|
-| Linear      | ![Linear](![svm_linear](https://github.com/user-attachments/assets/fa1a63c5-e481-4e62-860d-36adf16f7e0d)
+| Linear      | ![Linear]((https://github.com/user-attachments/assets/fa1a63c5-e481-4e62-860d-36adf16f7e0d)
 ) |
-| RBF         | ![RBF](![svm_rbf](https://github.com/user-attachments/assets/81cc70d6-dd28-49af-a2e7-bcddef73da88)
+| RBF         | ![RBF]((https://github.com/user-attachments/assets/81cc70d6-dd28-49af-a2e7-bcddef73da88)
 )       |
 
 
